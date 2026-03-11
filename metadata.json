@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow",
+  "description": "A productivity web application that helps users create, organize, track, and complete daily tasks.",
+  "requestFramePermissions": []
+}
